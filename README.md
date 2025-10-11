@@ -321,10 +321,6 @@ furnished to do so, subject to the following conditions:
 
 ---
 
-## 🆘 Support & Contact
 
-* GitHub Issues: `https://github.com/your-username/delivery-management-system/issues`
-* For private/urgent support: add your preferred contact (email, Slack, Discord).
 
----
 
